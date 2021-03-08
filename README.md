@@ -1,3 +1,8 @@
+## Movie Clone
+
+![](https://img.shields.io/github/languages/count/callowidealist/movie-clone?color=%230078FF) ![](https://img.shields.io/github/languages/top/callowidealist/movie-clone?color=%230078FF) ![](https://img.shields.io/github/repo-size/callowidealist/movie-clone?color=%230078FF) ![](https://img.shields.io/github/last-commit/callowidealist/movie-clone?color=%230078FF)
+
+
 ## Demo 
 
 https://movie-clone-pi.vercel.app/
